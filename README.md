@@ -12,4 +12,4 @@ To set up a similar environment you can start a new 2.7 envrionment:
  - `conda env create -f environment.yml` from the code directory
 
 
-Run tests with `nosetests` from the command line (after installing dependencies).
+Run [tests](https://nose.readthedocs.io/en/latest/index.html)  with `nosetests` from the command line (after installing dependencies).
