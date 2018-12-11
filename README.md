@@ -8,8 +8,8 @@ Check syntax with **pycodestyle** and debug with either **spyder** or **pudb** (
 This project was built using [Anaconda distribution of Python](https://www.anaconda.com/download/).
 
 To set up a similar environment you can start a new 2.7 envrionment:
- - `conda create -n py27 python=2.7 ipykernel`
- - `conda env create -f environment.yml` from the code directory
+ - `conda create -n nees python=2.7 ipykernel`
+ - `conda install numba pandas`
 
 
 Run [tests](https://nose.readthedocs.io/en/latest/index.html)  with `nosetests` from the command line (after installing dependencies).
