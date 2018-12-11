@@ -2,7 +2,6 @@ from __future__ import division
 
 import re
 import numpy as np
-import matplotlib.pyplot as plt
 import pandas as pd
 import numba
 
