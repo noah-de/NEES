@@ -9,7 +9,7 @@ This project was built using [Anaconda distribution of Python](https://www.anaco
 
 To set up a similar environment you can start a new 2.7 envrionment:
  - `conda create -n nees python=2.7 ipykernel`
- - `conda install numbpy pandas`
+ - `conda install numba pandas`
 
 
 Run [tests](https://nose.readthedocs.io/en/latest/index.html)  with `nosetests` from the command line (after installing dependencies).
